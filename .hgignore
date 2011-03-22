@@ -1,0 +1,7 @@
+glob:Debug/*
+glob:ipch/*
+glob:Spacewar.ncb
+glob:Spacewar.opensdf
+glob:Spacewar.sdf
+glob:Spacewar.suo
+glob:Spacewar/Spacewar.vcxproj.user
