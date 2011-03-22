@@ -65,7 +65,7 @@
     </Link>
     <CustomBuild>
       <Command>xcopy /y "%(Identity)" "$(OutDir)\%(RelativeDir)"</Command>
-      <Message>copy resource</Message>
+      <Message>copy resources</Message>
       <Outputs>$(OutDir)\%(Identity)</Outputs>
     </CustomBuild>
     <CustomBuildStep>
